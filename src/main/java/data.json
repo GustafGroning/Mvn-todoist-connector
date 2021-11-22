@@ -1,0 +1,8 @@
+[
+  {"recipeName": "Pomodoro",
+  "Ingredients": [
+    {"Name": "Canned Tomato", "Amount": 2, "Type": "Cans"}, 
+    {"Name": "Water", "Amount": 1, "Type": "Dl"}, 
+    {"Name": "Tomato Paste", "Amount": 2, "Type": "Tsp"}]
+  }
+]
